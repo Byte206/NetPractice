@@ -50,6 +50,7 @@ The OSI model conceptualizes how network systems communicate. This project prima
 ### References
 - **Network Chuck - You suck at subnetting:** [Playlist Link](https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
   - This playlist was used extensively to understand the concept of subnetting. It provided a clear, step-by-step method for calculating network addresses, broadcast addresses, and valid host ranges, which was essential for solving the levels requiring sub-network division.
+  - I cannot recommend this playlist enough; these videos made the project so fun, way easier, and more accessible. It also helped me discover Chuck's channel, where he has a lot of videos on interesting topics. Right now, I'm learning about installing Home Assistant on a Raspberry Pi thanks to him.
 
 ### AI Usage
 AI tools were used in this project for the following tasks:
